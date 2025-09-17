@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-🎓 Fullstack Web Development Student
-📍 Yrgo, Göteborg
-💡 I'm currently studying Web Development at YRGO, where I've had the opportunity to work on hands-on projects involving React, TypeScript, and modern tools like Supabase and Next.js.
+🎓 Fullstack Web Development Student  
+📍 Yrgo, Göteborg  
+
+💡 I'm currently studying Web Development at YRGO, where I've had the opportunity to work on hands-on projects involving React, TypeScript, and modern tools like Supabase and Next.js.  
+
 💼 Currently working as EIC (Engineer in Charge) at Warner Brothers AB, where I handle live broadcast technology and have developed technical expertise alongside an understanding of storytelling and creative problem-solving.
+
 ## 🛠️ Languages & Tools
 
 ### 🌐 Frontend
