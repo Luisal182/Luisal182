@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 💻 Fullstack Web Development· Programmering · Systemutveckling 
+
 📍 Yrgo, Göteborg  
 
 💡 I enjoy being part of projects from idea to production. Curiosity and a drive to solve problems and needs takes me across frontend, backend and everything in between. 
